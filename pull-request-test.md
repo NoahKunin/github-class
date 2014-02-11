@@ -2,6 +2,7 @@
 
 * Sample Question 1
 * Sample Question 2
+* Should federal agencies have private repositories?
 
 ## Ideas of work to perform on GitHub
 
