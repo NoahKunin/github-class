@@ -2,6 +2,7 @@
 
 * Sample Question 1
 * Sample Question 2
+* How to use with Phonegap?
 
 ## Ideas of work to perform on GitHub
 
