@@ -8,3 +8,4 @@
 * Idea 1
 * Idea 2  
 * Gray's idea
+* Collect colleague's priorities for new application features
