@@ -8,3 +8,4 @@
 * Idea 1
 * Idea 2  
 * Gray's idea
+* Though your ship be sturdy, no mercy has the sea.
